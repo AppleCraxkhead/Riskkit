@@ -1,0 +1,10 @@
+Package: com.applecraxkhead.riskkit
+Name: Riskkit
+Author: Apple Craxkhead
+Description: Unblurs NSFW and Spoiler posts on Reddit and Apollo 
+Depends: mobilesubstrate
+Maintainer: AppleCraxkhead <applecraxkhead@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.2.0b1
+Icon: file://Library/Application Support/Riskkit/riskkit-icon.png

@@ -1,0 +1,7 @@
+.vim
+.vscode
+.DS_Store
+.dragon
+.theos
+packages
+build.ninja
