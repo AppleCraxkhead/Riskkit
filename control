@@ -1,0 +1,10 @@
+Package: com.applecraxkhead.riskkit
+Name: Riskkit
+Author: Apple Craxkhead
+Description: Unblurs NSFW and spoiler posts on Reddit
+Depends: mobilesubstrate
+Maintainer: Apple Craxkhead <Applecraxkhead@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.1.1
+Depiction: https://applecraxkhead.github.io/repo/depictions/web?p=com.applecraxkhead.riskkit
